@@ -1,0 +1,44 @@
+{
+  "posts": [
+    {
+      "id": 10,
+      "NIM": 1841723456,
+      "nama": "Adristi Iftitah",
+      "alamat": "Malang",
+      "hp": "081123456734",
+      "angkatan": "2018",
+      "status": "aktif"
+    },
+    {
+      "id": 20,
+      "NIM": 1841723786,
+      "nama": "Farradilah Ay D",
+      "alamat": "Jember",
+      "hp": "0811564785",
+      "angkatan": "2018",
+      "status": "aktif"
+    },
+    {
+      "id": 30,
+      "NIM": 184165783,
+      "nama": "Qorinda Yul",
+      "alamat": "Malang",
+      "hp": "0811562678",
+      "angkatan": "2018",
+      "status": "aktif"
+    },
+    {
+      "id": 1614860073366,
+      "NIM": "18427182902",
+      "nama": "Claudyo ",
+      "alamat": "Srabaya",
+      "hp": "0827393944",
+      "angkatan": "18",
+      "status": "tidak aktif"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
